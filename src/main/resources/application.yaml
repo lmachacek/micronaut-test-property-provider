@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: test-property-provider
+
+kafka:
+  enabled: true
